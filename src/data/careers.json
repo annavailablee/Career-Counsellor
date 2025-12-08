@@ -1,0 +1,371 @@
+[
+  {
+    "id": "frontend-developer",
+    "roleName": "Frontend Developer",
+    "description": "Builds the user-facing part of websites and applications. You'll turn designs into interactive, beautiful, and high-performance interfaces using HTML, CSS, and JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "UI/UX Design", "Responsive Design", "Browser APIs"],
+    "dayInTheLife": "Morning: Meeting with the design team to review new mockups. Afternoon: Coding a new interactive component in React. Late Afternoon: Debugging a CSS layout issue in Safari. Evening: Learning about a new JavaScript framework.",
+    "firstStep": "Recreate a complex, responsive website you admire (like the Stripe or Airbnb homepage) from scratch using only HTML, CSS, and vanilla JavaScript.",
+    "tags": ["creative", "frontend", "ui", "user-centric", "javascript", "visual", "versatile"]
+  },
+  {
+    "id": "backend-developer",
+    "roleName": "Backend Developer",
+    "description": "You are the architect of the 'brains' of an application. You build the server-side logic, databases, and APIs that power everything users see on the front end.",
+    "skills": ["Node.js/Python/Java", "Data Structures", "Algorithms", "SQL/NoSQL", "System Design", "APIs (REST/GraphQL)"],
+    "dayInTheLife": "Morning: Designing a new feature for the company's API. Afternoon: Writing code to implement the feature in Python. Late Afternoon: Optimizing a slow database query to improve app performance. Evening: Code review with teammates.",
+    "firstStep": "Build a simple REST API for a to-do list application using Node.js/Express and a MongoDB database.",
+    "tags": ["structural", "backend", "system-design", "databases", "analytical", "problem-solving", "stable"]
+  },
+  {
+    "id": "full-stack-developer",
+    "roleName": "Full-Stack Developer",
+    "description": "A jack-of-all-trades who works on both the frontend and backend of an application. You have a broad understanding of how a complete web application is built and maintained.",
+    "skills": ["HTML/CSS/JS", "React/Vue", "Node.js/Python", "Databases", "APIs", "System Design", "DevOps Basics"],
+    "dayInTheLife": "Highly variable. One day you might be building a new UI component, and the next you'll be setting up a database or deploying the application to a server. You work across the entire stack.",
+    "firstStep": "Build a complete web application from start to finish. This includes a database, a backend API, and a frontend interface.",
+    "tags": ["versatile", "frontend", "backend", "system-design", "fast-paced", "problem-solving", "full-stack"]
+  },
+  {
+    "id": "data-scientist",
+    "roleName": "Data Scientist",
+    "description": "You are a detective for data. You'll collect, clean, and analyze massive datasets to find hidden patterns, build predictive models, and power intelligent systems.",
+    "skills": ["Python", "Pandas", "NumPy", "Scikit-learn", "Statistics", "SQL", "Data Visualization"],
+    "dayInTheLife": "Morning: Meeting with product managers to understand a business problem. Afternoon: Writing Python scripts to process and clean raw data. Late Afternoon: Training and evaluating a machine learning model. Evening: Reading research papers on the latest AI techniques.",
+    "firstStep": "Take the 'Machine Learning' specialization on Coursera by Andrew Ng. It's the gold standard for beginners.",
+    "tags": ["analytical", "data", "statistics", "python", "research", "problem-solving", "investigative"]
+  },
+  {
+    "id": "machine-learning-engineer",
+    "roleName": "Machine Learning Engineer",
+    "description": "You design and build complex AI/ML systems that can be deployed into production. You bridge the gap between data science research and real-world software engineering.",
+    "skills": ["Python", "TensorFlow", "PyTorch", "Kubernetes", "Docker", "APIs", "Software Engineering", "System Design"],
+    "dayInTheLife": "Morning: Reviewing code for a new ML model deployment. Afternoon: Optimizing a model for lower latency and memory usage. Late Afternoon: Working with data scientists to productionize their research models.",
+    "firstStep": "Build a simple image classification model (e.g., using CIFAR-10) and deploy it as a web API using Flask or FastAPI.",
+    "tags": ["backend", "system-design", "performance", "python", "ai-ml", "analytical", "software-engineering"]
+  },
+  {
+    "id": "devops-engineer",
+    "roleName": "DevOps Engineer",
+    "description": "You are the bridge between software development and IT operations. You automate and streamline the process of building, testing, and deploying software so it can be released reliably and quickly.",
+    "skills": ["CI/CD", "AWS/Azure/GCP", "Docker", "Kubernetes", "Terraform", "Python/Bash Scripting", "System Administration"],
+    "dayInTheLife": "Morning: Investigating why a deployment failed overnight. Afternoon: Writing a script to automate a manual server setup process. Late Afternoon: Monitoring the health of the production cloud infrastructure. Evening: Learning about a new Kubernetes feature.",
+    "firstStep": "Get the 'AWS Certified Cloud Practitioner' certification. It will give you a foundational understanding of the cloud, which is central to DevOps.",
+    "tags": ["efficiency", "system-level", "automation", "backend", "reliability", "problem-solving"]
+  },
+  {
+    "id": "cybersecurity-analyst",
+    "roleName": "Cybersecurity Analyst",
+    "description": "You are a digital guardian, responsible for protecting an organization's computer systems and networks. You'll monitor for threats, analyze breaches, and implement security measures.",
+    "skills": ["Network Security", "Ethical Hacking", "SIEM Tools", "Python/Bash", "Operating Systems", "Incident Response"],
+    "dayInTheLife": "Morning: Reviewing security logs from the night before for any suspicious activity. Afternoon: Performing a vulnerability scan on the company's web applications. Late Afternoon: Writing a report on a recent security incident.",
+    "firstStep": "Learn the fundamentals of networking and try to earn a foundational certification like CompTIA Security+.",
+    "tags": ["protective", "security", "meticulous", "analytical", "reliability", "investigative"]
+  },
+  {
+    "id": "mobile-app-developer",
+    "roleName": "Mobile App Developer",
+    "description": "You build applications for smartphones and tablets. You can specialize in iOS (using Swift/Objective-C) or Android (using Kotlin/Java) or use cross-platform frameworks like React Native or Flutter.",
+    "skills": ["Swift/Kotlin", "React Native/Flutter", "Mobile UI/UX", "APIs", "State Management", "Device-Specific APIs"],
+    "dayInTheLife": "Morning: Planning the UI for a new app screen. Afternoon: Writing code for the app's logic and connecting it to a backend API. Late Afternoon: Testing the app on various devices and screen sizes.",
+    "firstStep": "Build a simple to-do list or weather app for your own smartphone using the native language (Swift for iOS, Kotlin for Android).",
+    "tags": ["creative", "user-centric", "mobile", "versatile", "visual", "problem-solving"]
+  },
+  {
+    "id": "qa-engineer",
+    "roleName": "QA Engineer",
+    "description": "You are the champion of quality. You design and execute tests to find bugs and ensure software meets requirements before it's released to users. This can be manual or automated.",
+    "skills": ["Test Planning", "Automation (Selenium/Cypress)", "API Testing", "Bug Tracking", "Agile Methodologies", "Attention to Detail"],
+    "dayInTheLife": "Morning: Writing test cases for a new feature. Afternoon: Running automated tests and analyzing the results. Late Afternoon: Meeting with developers to discuss a bug you found.",
+    "firstStep": "Learn a testing framework like Selenium (for web) or Cypress and try to automate tests for a simple website.",
+    "tags": ["meticulous", "problem-solving", "reliability", "analytical", "structured", "communication"]
+  },
+  {
+    "id": "cloud-architect",
+    "roleName": "Cloud Architect",
+    "description": "You design and oversee an organization's cloud computing strategy. You decide how to deploy applications and infrastructure on platforms like AWS, Azure, or GCP in a way that is scalable, secure, and cost-effective.",
+    "skills": ["AWS/Azure/GCP", "System Design", "Networking", "Security", "Cost Management", "DevOps Principles"],
+    "dayInTheLife": "Morning: Meeting with a development team to design the cloud architecture for a new product. Afternoon: Evaluating the cost and performance of different cloud services. Late Afternoon: Creating diagrams and documentation for the new architecture.",
+    "firstStep": "Get an associate-level certification for a major cloud provider, like the AWS Solutions Architect Associate.",
+    "tags": ["strategic", "system-design", "backend", "leadership", "analytical", "stable"]
+  },
+  {
+    "id": "game-developer",
+    "roleName": "Game Developer",
+    "description": "You bring video games to life. You can specialize in gameplay programming, graphics programming, or AI for non-player characters (NPCs) using engines like Unity or Unreal Engine.",
+    "skills": ["C++/C#", "Unity/Unreal Engine", "3D Math", "Physics", "AI Programming", "Collaboration"],
+    "dayInTheLife": "Morning: Implementing the logic for a new character ability. Afternoon: Optimizing game code to run smoothly on a target console. Late Afternoon: Working with artists and designers to integrate new assets into the game.",
+    "firstStep": "Download Unity or Unreal Engine and follow their official tutorials to create your first simple game, like a platformer or a puzzle game.",
+    "tags": ["creative", "c++", "problem-solving", "versatile", "collaborative", "performance"]
+  },
+  {
+    "id": "technical-writer",
+    "roleName": "Technical Writer",
+    "description": "You bridge the gap between complex technical information and the end-user. You create clear, concise, and easy-to-understand documentation, tutorials, and guides for software and hardware.",
+    "skills": ["Writing", "Communication", "Research", "API Documentation", "Markdown", "Basic HTML/CSS", "Empathy"],
+    "dayInTheLife": "Morning: Meeting with engineers to understand a new feature. Afternoon: Writing a tutorial for the new feature. Late Afternoon: Editing and proofreading documentation for clarity and accuracy.",
+    "firstStep": "Start a blog and write tutorials about programming concepts you are learning. The best way to learn is to teach.",
+    "tags": ["communication", "user-centric", "structured", "empathy", "research", "writing"]
+  },
+  {
+    "id": "data-engineer",
+    "roleName": "Data Engineer",
+    "description": "You design and build the systems that collect, manage, and transform raw data into a usable format for data scientists and analysts. You are the plumber of the data world.",
+    "skills": ["SQL", "Python", "ETL Tools", "Data Warehousing", "Apache Spark", "Cloud Platforms (AWS/GCP/Azure)", "Data Pipelines"],
+    "dayInTheLife": "Morning: Meeting with analysts to understand their data needs. Afternoon: Building and maintaining a data pipeline using Apache Airflow. Late Afternoon: Optimizing a slow query in a data warehouse.",
+    "firstStep": "Learn SQL and Python, then build a project that scrapes data from a website, stores it in a database, and performs some basic transformations.",
+    "tags": ["backend", "data", "databases", "system-design", "python", "analytical", "performance"]
+  },
+  {
+    "id": "ai-research-scientist",
+    "roleName": "AI Research Scientist",
+    "description": "You push the boundaries of what's possible with artificial intelligence. You conduct research, experiment with new algorithms, and publish your findings to advance the field.",
+    "skills": ["Advanced Mathematics", "Python", "TensorFlow/PyTorch", "Research Methodology", "Academic Writing", "Algorithms"],
+    "dayInTheLife": "Reading the latest research papers, formulating hypotheses, coding new experimental models, running simulations, and writing papers for conferences or journals.",
+    "firstStep": "Focus heavily on advanced mathematics (Linear Algebra, Calculus, Probability) and pursue a Master's or PhD in Computer Science with a focus on Machine Learning.",
+    "tags": ["research", "theoretical", "ai-ml", "mathematics", "python", "analytical", "investigative"]
+  },
+  {
+    "id": "sre",
+    "roleName": "Site Reliability Engineer (SRE)",
+    "description": "You apply software engineering principles to operations problems. Your goal is to create ultra-reliable and scalable systems by automating operations, monitoring performance, and responding to incidents.",
+    "skills": ["Coding (Python/Go)", "Linux Administration", "Cloud Platforms", "Networking", "Monitoring Tools", "CI/CD", "Automation"],
+    "dayInTheLife": "Writing code to automate manual tasks, being on-call to respond to system outages, analyzing system performance metrics, and working with developers to improve software reliability.",
+    "firstStep": "Get comfortable with the Linux command line and learn a scripting language like Python. The Google SRE book is a must-read.",
+    "tags": ["backend", "reliability", "automation", "problem-solving", "system-level", "performance"]
+  },
+  {
+    "id": "blockchain-developer",
+    "roleName": "Blockchain Developer",
+    "description": "You design and build decentralized applications (dApps) and smart contracts on blockchain platforms like Ethereum. You are working on the future of finance, governance, and the internet.",
+    "skills": ["Solidity", "JavaScript", "Cryptography", "Smart Contracts", "Web3.js/Ethers.js", "Distributed Systems"],
+    "dayInTheLife": "Writing and auditing smart contracts, developing the frontend for a dApp, testing on a testnet, and staying up-to-date with the rapidly changing blockchain ecosystem.",
+    "firstStep": "Learn Solidity and build a simple smart contract, like a voting dApp or an NFT, and deploy it on a test network like Sepolia.",
+    "tags": ["backend", "security", "cryptography", "problem-solving", "innovative", "javascript"]
+  },
+  {
+    "id": "technical-product-manager",
+    "roleName": "Technical Product Manager",
+    "description": "You are the bridge between the business, engineering, and the user. You define the 'what' and 'why' for a product, working with engineers to figure out the 'how'. You need a strong technical understanding.",
+    "skills": ["Communication", "Market Research", "Roadmapping", "Prioritization", "Basic Coding Knowledge", "Data Analysis"],
+    "dayInTheLife": "Meeting with stakeholders, writing user stories and product requirements, prioritizing the product backlog, and working closely with the engineering team to guide development.",
+    "firstStep": "Work on a personal project from idea to launch. Document your process, from defining the problem to building and shipping a solution.",
+    "tags": ["leadership", "strategic", "communication", "user-centric", "analytical", "management"]
+  },
+  {
+    "id": "solutions-architect",
+    "roleName": "Solutions Architect",
+    "description": "You design customized technology solutions for a company's clients or internal teams. You translate business requirements into technical architecture and best practices, often using cloud technologies.",
+    "skills": ["Cloud Platforms (AWS/Azure/GCP)", "System Design", "Networking", "Communication", "Problem-Solving", "Project Management"],
+    "dayInTheLife": "Meeting with clients to understand their needs, designing high-level and low-level architecture diagrams, presenting solutions, and providing technical guidance to development teams.",
+    "firstStep": "Get a cloud certification (e.g., AWS Solutions Architect) and practice designing systems for different use cases (e.g., a high-traffic website, a data processing pipeline).",
+    "tags": ["strategic", "system-design", "communication", "backend", "leadership", "analytical"]
+  },
+  {
+    "id": "embedded-systems-engineer",
+    "roleName": "Embedded Systems Engineer",
+    "description": "You write software that runs on hardware devices other than computers, like cars, medical devices, smart home gadgets, and IoT sensors. You work at the intersection of hardware and software.",
+    "skills": ["C/C++", "Linux", "RTOS", "Microcontrollers", "Computer Architecture", "Hardware Debugging"],
+    "dayInTheLife": "Writing low-level code to control hardware components, debugging software on a physical device, collaborating with hardware engineers, and optimizing code for performance and memory.",
+    "firstStep": "Buy an Arduino or Raspberry Pi kit and work through tutorials to learn how to control LEDs, motors, and sensors with code.",
+    "tags": ["c++", "hardware", "system-level", "problem-solving", "performance", "iot"]
+  },
+  {
+    "id": "ar-vr-developer",
+    "roleName": "AR/VR Developer",
+    "description": "You build immersive experiences for Augmented Reality and Virtual Reality. You could be creating the next hit VR game or a practical AR application for training and visualization.",
+    "skills": ["C++/C#", "Unity/Unreal Engine", "3D Math", "3D Modeling (Blender/Maya)", "Spatial Computing", "Performance Optimization"],
+    "dayInTheLife": "Developing interactive 3D environments, programming user interactions with hand controllers or gestures, optimizing for high frame rates, and testing on AR/VR headsets.",
+    "firstStep": "Download Unity or Unreal Engine and follow their official tutorials for building a basic AR or VR experience.",
+    "tags": ["creative", "c++", "problem-solving", "visual", "innovative", "performance"]
+  },
+  {
+    "id": "penetration-tester",
+    "roleName": "Penetration Tester (Ethical Hacker)",
+    "description": "You are hired to legally hack into computer systems and networks to find vulnerabilities before malicious attackers do. You think like a criminal to protect the innocent.",
+    "skills": ["Network Security", "Web Security", "Ethical Hacking Tools", "Linux", "Scripting (Python/Bash)", "Report Writing"],
+    "dayInTheLife": "Planning an attack, scanning for vulnerabilities, exploiting weaknesses, writing detailed reports on your findings, and presenting them to the client.",
+    "firstStep": "Learn about networking and try to get a foundational certification like CompTIA Security+ or CEH (Certified Ethical Hacker). Practice on legal platforms like Hack The Box.",
+    "tags": ["security", "problem-solving", "investigative", "meticulous", "backend"]
+  },
+  {
+    "id": "data-analyst",
+    "roleName": "Data Analyst",
+    "description": "You translate numbers into plain English. You take raw data, clean it, analyze it, and create reports and visualizations to help businesses make better decisions.",
+    "skills": ["SQL", "Excel/Google Sheets", "Python/R", "Data Visualization (Tableau/Power BI)", "Statistics", "Communication"],
+    "dayInTheLife": "Pulling data from databases using SQL, cleaning and transforming it, creating charts and dashboards, and presenting your findings to stakeholders.",
+    "firstStep": "Become proficient in SQL and Excel. Then, learn a visualization tool like Tableau Public and a dataset from Kaggle to analyze and visualize.",
+    "tags": ["data", "analytical", "statistics", "communication", "problem-solving", "investigative"]
+  },
+  {
+    "id": "test-automation-engineer",
+    "roleName": "Test Automation Engineer",
+    "description": "You are a software developer in disguise. You write code to automate the testing of software, ensuring that new features don't break old ones and that the application is high-quality.",
+    "skills": ["Coding (Java/Python/JS)", "Selenium/Cypress/Playwright", "API Testing", "Test Frameworks", "CI/CD", "Agile"],
+    "dayInTheLife": "Writing automated test scripts, maintaining the test suite, analyzing test results, and working with developers to fix bugs.",
+    "firstStep": "Learn a programming language like Python and a testing framework like Selenium. Then, build a small web app and write automated tests for it.",
+    "tags": ["meticulous", "problem-solving", "reliability", "backend", "structured", "python"]
+  },
+  {
+    "id": "engineering-manager",
+    "roleName": "Engineering Manager",
+    "description": "You lead a team of engineers. Your focus shifts from writing code to empowering your team to do their best work through mentorship, career development, and process improvement.",
+    "skills": ["Leadership", "Communication", "Project Management", "Mentorship", "Technical Acumen", "Hiring"],
+    "dayInTheLife": "Conducting 1-on-1 meetings, unblocking team members, planning sprints, collaborating with product managers, and recruiting new talent.",
+    "firstStep": "First, become a strong senior software engineer. Then, seek out opportunities to mentor junior developers and lead small projects.",
+    "tags": ["leadership", "management", "communication", "strategic", "empathy"]
+  },
+  {
+    "id": "developer-advocate",
+    "roleName": "Developer Advocate / DevRel",
+    "description": "You are the voice of the developer within a company. You create content (tutorials, videos, blog posts), speak at conferences, and build a community around a technology or platform.",
+    "skills": ["Communication", "Public Speaking", "Coding", "Content Creation", "Community Building", "Empathy"],
+    "dayInTheLife": "Writing a blog post about a new feature, creating a video tutorial, answering questions on forums like Stack Overflow, and speaking at a tech conference.",
+    "firstStep": "Start a technical blog or YouTube channel. Teach others about a technology you are passionate about. Contribute to open-source projects.",
+    "tags": ["communication", "user-centric", "creative", "javascript", "writing", "collaborative"]
+  },
+  {
+    "id": "business-intelligence-analyst",
+    "roleName": "Business Intelligence (BI) Analyst",
+    "description": "You design and build dashboards and reports that help business leaders track key performance indicators (KPIs) and make data-driven decisions.",
+    "skills": ["SQL", "Data Warehousing", "Tableau/Power BI", "Excel", "Data Modeling", "Business Acumen"],
+    "dayInTheLife": "Meeting with business stakeholders to understand their reporting needs, writing SQL queries to pull data, and building interactive dashboards in a BI tool.",
+    "firstStep": "Learn SQL and a BI tool like Power BI or Tableau. Find a public dataset and try to build a dashboard that answers specific business questions.",
+    "tags": ["data", "analytical", "communication", "problem-solving", "databases"]
+  },
+  {
+    "id": "network-engineer",
+    "roleName": "Network Engineer",
+    "description": "You design, implement, and maintain the computer networks that an organization relies on, from local area networks (LANs) to wide area networks (WANs) and the cloud.",
+    "skills": ["Networking (TCP/IP, DNS)", "Cisco IOS/Juniper", "Firewalls", "VPNs", "BGP/OSPF", "Network Security"],
+    "dayInTheLife": "Configuring routers and switches, troubleshooting network outages, monitoring network performance, and planning network upgrades.",
+    "firstStep": "Study for and obtain a foundational certification like the Cisco CCNA (Cisco Certified Network Associate).",
+    "tags": ["backend", "system-level", "security", "reliability", "problem-solving"]
+  },
+  {
+    "id": "database-administrator",
+    "roleName": "Database Administrator (DBA)",
+    "description": "You are the guardian of an organization's data. You ensure that databases are secure, available, and performing at their best.",
+    "skills": ["SQL", "Database Systems (PostgreSQL, MySQL, Oracle)", "Backup/Recovery", "Performance Tuning", "Security", "Shell Scripting"],
+    "dayInTheLife": "Installing and configuring databases, monitoring performance, applying security patches, and planning for data recovery in case of an emergency.",
+    "firstStep": "Install a database like PostgreSQL on your own computer. Learn how to create databases, tables, and users, and how to perform backups.",
+    "tags": ["backend", "databases", "security", "reliability", "analytical", "system-level"]
+  },
+  {
+    "id": "graphics-programmer",
+    "roleName": "Graphics Programmer",
+    "description": "You write the code that renders 2D and 3D graphics on a screen. This is a highly specialized role critical in the game, film, and simulation industries.",
+    "skills": ["C++", "OpenGL/Vulkan/DirectX", "Linear Algebra", "GPU Programming (CUDA/GLSL)", "Rendering Algorithms", "Performance Optimization"],
+    "dayInTheLife": "Writing shaders to create realistic lighting, implementing rendering techniques like ray tracing, and optimizing code to render scenes as fast as possible.",
+    "firstStep": "Learn C++ and linear algebra. Then, follow tutorials to create a simple software renderer or use a library like OpenGL to render a 3D scene.",
+    "tags": ["c++", "performance", "visual", "analytical", "mathematics", "problem-solving"]
+  },
+  {
+    "id": "ai-ethicist",
+    "roleName": "AI Ethicist",
+    "description": "You study the complex moral and ethical implications of artificial intelligence. You help organizations build and deploy AI systems that are fair, transparent, and accountable.",
+    "skills": ["Philosophy", "Law", "Sociology", "Communication", "Research", "Basic AI Knowledge"],
+    "dayInTheLife": "Analyzing AI algorithms for bias, developing ethical guidelines for AI use, writing policy recommendations, and educating teams on responsible AI practices.",
+    "firstStep": "Pursue an interdisciplinary education in technology and humanities (e.g., a degree in Philosophy, Law, or Sociology with a focus on tech). Read extensively on the topic of AI ethics.",
+    "tags": ["research", "communication", "user-centric", "strategic", "investigative", "empathy"]
+  },
+  {
+    "id": "program-manager",
+    "roleName": "Program Manager",
+    "description": "You oversee a collection of related projects that form a larger program. You coordinate between different project teams and stakeholders to ensure the program meets its strategic goals.",
+    "skills": ["Project Management", "Communication", "Risk Management", "Budgeting", "Leadership", "Organization"],
+    "dayInTheLife": "Tracking the progress of multiple projects, managing dependencies between teams, reporting progress to senior leadership, and resolving cross-team issues.",
+    "firstStep": "Get a certification like the PMP (Project Management Professional) or a Certified Associate in Project Management (CAPM).",
+    "tags": ["management", "strategic", "communication", "leadership", "structured"]
+  },
+  {
+    "id": "ux-researcher",
+    "roleName": "UX Researcher",
+    "description": "You understand the user. You conduct studies and interviews to gather insights about user behaviors, needs, and motivations, which then inform the design of a product.",
+    "skills": ["User Research Methods", "Data Analysis", "Communication", "Empathy", "Survey Design", "Usability Testing"],
+    "dayInTheLife": "Planning and conducting user interviews, analyzing survey data, running usability tests, and presenting research findings to designers and product managers.",
+    "firstStep": "Read books like 'The Design of Everyday Things' and 'Just Enough Research'. Try conducting a small usability test on a website or app with a few friends.",
+    "tags": ["user-centric", "research", "communication", "empathy", "investigative"]
+  },
+  {
+    "id": "iot-developer",
+    "roleName": "IoT (Internet of Things) Developer",
+    "description": "You build software for connected devices. You work on everything from the firmware that runs on the device to the cloud platforms that collect and process the data.",
+    "skills": ["C/C++", "Python", "Embedded Systems", "Cloud Platforms (AWS IoT/Azure IoT)", "Networking", "Security"],
+    "dayInTheLife": "Writing firmware for a microcontroller, setting up communication between a device and the cloud, and building a simple dashboard to visualize sensor data.",
+    "firstStep": "Get an ESP32 or Raspberry Pi Pico and learn how to connect it to Wi-Fi and send data to a cloud service like AWS IoT Core.",
+    "tags": ["hardware", "backend", "system-design", "iot", "python", "c++"]
+  },
+  {
+    "id": "platform-engineer",
+    "roleName": "Platform Engineer",
+    "description": "You build and maintain the internal 'platform' that other developers use to build and deploy their applications. Your goal is to provide a golden path for developers, making their lives easier.",
+    "skills": ["Kubernetes", "CI/CD", "Cloud Platforms", "Infrastructure as Code (Terraform)", "Software Development", "System Design"],
+    "dayInTheLife": "Building internal developer tools, managing a Kubernetes cluster, automating application deployment pipelines, and providing support to development teams.",
+    "firstStep": "Learn Docker and Kubernetes. Build a project that deploys a containerized application to a Kubernetes cluster on a cloud provider.",
+    "tags": ["backend", "devops", "system-design", "automation", "performance", "reliability"]
+  },
+  {
+    "id": "site-reliability-engineer",
+    "roleName": "Security Architect",
+    "description": "You design the security architecture for an entire organization. You create high-level security strategies and policies to protect against a wide range of threats.",
+    "skills": ["Network Security", "Application Security", "Cloud Security", "Risk Assessment", "Compliance (GDPR, HIPAA)", "System Design"],
+    "dayInTheLife": "Designing secure systems from the ground up, performing threat modeling, creating security policies, and ensuring the organization complies with regulations.",
+    "firstStep": "Gain broad experience in different areas of cybersecurity (network, application, cloud). A certification like CISSP (Certified Information Systems Security Professional) is highly valued.",
+    "tags": ["security", "strategic", "system-design", "leadership", "protective", "analytical"]
+  },
+  {
+    "id": "computational-linguist",
+    "roleName": "Computational Linguist / NLP Engineer",
+    "description": "You teach computers to understand and process human language. You work on the technology behind chatbots, translation services, and sentiment analysis.",
+    "skills": ["Python", "NLP Libraries (NLTK, spaCy, Hugging Face)", "Machine Learning", "Linguistics", "Data Structures", "Algorithms"],
+    "dayInTheLife": "Annotating text data, training machine learning models for tasks like text classification or named entity recognition, and deploying NLP models as APIs.",
+    "firstStep": "Take an online course on Natural Language Processing. The 'Natural Language Processing' specialization on Coursera is a great start.",
+    "tags": ["ai-ml", "data", "python", "research", "analytical", "problem-solving"]
+  },
+  {
+    "id": "software-engineer-in-test",
+    "roleName": "Software Engineer in Test (SDET)",
+    "description": "A hybrid role between a developer and a QA engineer. You write code at a deeper level than a typical automation engineer, often building testing frameworks and tools from scratch.",
+    "skills": ["Strong Coding Skills (Java/C#/Python)", "Test Automation Frameworks", "API Testing", "Data Structures", "Algorithms", "Software Design"],
+    "dayInTheLife": "Designing and building a company's test automation framework, writing complex test cases, and developing tools to make testing more efficient for other engineers.",
+    "firstStep": "Focus on becoming a strong software developer first. Then, specialize by learning about test design patterns and automation frameworks.",
+    "tags": ["meticulous", "problem-solving", "reliability", "backend", "structured", "software-engineering"]
+  },
+  {
+    "id": "chief-technology-officer",
+    "roleName": "Chief Technology Officer (CTO)",
+    "description": "The highest-level technology executive in a company. You are responsible for all technology and research & development, aligning the company's tech strategy with its business goals.",
+    "skills": ["Leadership", "Strategic Vision", "System Design", "Team Management", "Business Acumen", "Communication"],
+    "dayInTheLife": "Setting the long-term technology vision, managing the entire engineering department, representing the company to investors and partners, and overseeing R&D.",
+    "firstStep": "This is a senior leadership role. The path involves years of experience as a software engineer, then a tech lead, then an engineering manager or VP of Engineering.",
+    "tags": ["leadership", "strategic", "management", "communication", "visionary"]
+  },
+  {
+    "id": "information-systems-manager",
+    "roleName": "Information Systems Manager (IS Manager)",
+    "description": "You manage the computer systems and technology infrastructure of an organization, ensuring it meets the needs of the business. This is often more business-focused than a pure IT role.",
+    "skills": ["Leadership", "Project Management", "IT Infrastructure", "Budgeting", "Vendor Management", "Communication"],
+    "dayInTheLife": "Managing a team of IT professionals, planning technology upgrades, negotiating with vendors, and ensuring the company's systems are secure and reliable.",
+    "firstStep": "Gain experience in IT support and system administration. Then, move into a team lead or supervisor role to develop management skills.",
+    "tags": ["management", "leadership", "system-level", "communication", "structured"]
+  },
+  {
+    "id": "quantum-computing-researcher",
+    "roleName": "Quantum Computing Researcher",
+    "description": "You are on the cutting edge of physics and computer science, researching and developing algorithms for quantum computers that could one day solve problems impossible for classical computers.",
+    "skills": ["Advanced Physics", "Linear Algebra", "Quantum Mechanics", "Python (Qiskit/Cirq)", "Algorithms", "Research"],
+    "dayInTheLife": "Working in a lab or research facility, formulating quantum algorithms, simulating quantum systems on classical computers, and writing research papers.",
+    "firstStep": "This field requires deep academic study. Pursue a PhD in Physics or Computer Science with a focus on Quantum Information/Computing.",
+    "tags": ["research", "theoretical", "mathematics", "physics", "python", "innovative"]
+  },
+  {
+    "id": "bim-specialist",
+    "roleName": "BIM (Building Information Modeling) Specialist",
+    "description": "You use software to create and manage digital 3D models of buildings and infrastructure projects. You are a key player in modern architecture, engineering, and construction.",
+    "skills": ["BIM Software (Revit, AutoCAD)", "3D Modeling", "Project Management", "Construction Knowledge", "Collaboration"],
+    "dayInTheLife": "Creating detailed 3D models of buildings, coordinating with architects and engineers, clash detection (finding conflicts between systems), and managing project data.",
+    "firstStep": "Learn a primary BIM software like Autodesk Revit. There are many free tutorials and student versions available.",
+    "tags": ["visual", "structural", "problem-solving", "collaborative", "specialized"]
+  }
+]

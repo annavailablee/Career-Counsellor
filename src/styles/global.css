@@ -1,0 +1,40 @@
+/* ==========================================================================
+   GLOBAL STYLES, RESETS, & VARIABLES
+   ========================================================================== */
+
+/* --- Global Theme Variables --- */
+:root {
+  --primary-color: #B19CD9;
+  --secondary-color: #FFFFFF;
+  --primary-dark: #8B7AB8;
+  --text-light: #6c757d;
+  --text-dark: #343a40;
+  --background-light: #f8f9fa;
+}
+
+/* --- Global Styles & Resets --- */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--secondary-color);
+  color: var(--text-dark);
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+  padding: 20px;
+}

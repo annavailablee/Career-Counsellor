@@ -1,0 +1,232 @@
+[
+  {
+    "id": "q1",
+    "text": "Which part of a project excites you the most?",
+    "answers": [
+      { "value": "A", "text": "Figuring out the most efficient algorithm to solve a complex problem.", "tags": ["analytical", "backend", "algorithms", "problem-solving", "c++", "mathematics"] },
+      { "value": "B", "text": "Designing the user interface and making it look beautiful and feel intuitive.", "tags": ["creative", "frontend", "ui", "user-centric", "visual", "empathy"] },
+      { "value": "C", "text": "Building the underlying structure, databases, and server-side logic.", "tags": ["structural", "backend", "system-design", "databases", "reliability"] },
+      { "value": "D", "text": "Finding and fixing security vulnerabilities to protect the system.", "tags": ["protective", "security", "meticulous", "cryptography", "reliability"] },
+      { "value": "E", "text": "Analyzing large datasets to find hidden patterns and insights.", "tags": ["analytical", "data", "statistics", "python", "investigative", "nlp"] },
+      { "value": "F", "text": "Taking an idea from a concept and managing the team to build the final product.", "tags": ["leadership", "strategic", "management", "communication"] }
+    ]
+  },
+  {
+    "id": "q2",
+    "text": "What kind of problems do you enjoy solving?",
+    "answers": [
+      { "value": "A", "text": "Abstract, mathematical, or physics-based puzzles.", "tags": ["theoretical", "mathematics", "physics", "quantum", "ai-ml", "research"] },
+      { "value": "B", "text": "Real-world, human-centric problems.", "tags": ["user-centric", "empathy", "communication", "ux-research", "writing"] },
+      { "value": "C", "text": "'How can we make this 10x faster or more efficient?'", "tags": ["performance", "system-design", "automation", "devops", "backend", "c++"] },
+      { "value": "D", "text": "'How can we prevent this from breaking or being attacked?'", "tags": ["security", "investigative", "meticulous", "problem-solving", "protective"] }
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "Choose your ideal work environment:",
+    "answers": [
+      { "value": "A", "text": "A fast-paced startup where I wear many hats.", "tags": ["versatile", "fast-paced", "full-stack", "frontend"] },
+      { "value": "B", "text": "A large, stable company with a well-defined role.", "tags": ["stable", "specialized", "structured", "backend", "management"] },
+      { "value": "C", "text": "A research lab or academic setting.", "tags": ["research", "theoretical", "ai-ml", "data", "mathematics"] },
+      { "value": "D", "text": "Remote work, with flexible hours.", "tags": ["remote", "self-motivated", "flexible", "work-life-balance"] },
+      { "value": "E", "text": "A collaborative, team-based office environment.", "tags": ["collaborative", "communication", "team-oriented"] }
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "Which technology domain fascinates you the most?",
+    "answers": [
+      { "value": "A", "text": "The Web (websites, web apps).", "tags": ["frontend", "backend", "javascript", "ui", "full-stack"] },
+      { "value": "B", "text": "Mobile (smartphones, tablets).", "tags": ["mobile", "user-centric", "versatile", "visual"] },
+      { "value": "C", "text": "The Cloud and Infrastructure (AWS, Azure, GCP).", "tags": ["cloud", "devops", "system-design", "automation", "reliability"] },
+      { "value": "D", "text": "Artificial Intelligence and Machine Learning.", "tags": ["ai-ml", "data", "python", "statistics", "research"] },
+      { "value": "E", "text": "Hardware and the Internet of Things (IoT).", "tags": ["hardware", "iot", "c++", "embedded", "system-level"] },
+      { "value": "F", "text": "Blockchain and decentralized systems.", "tags": ["blockchain", "cryptography", "security", "innovative", "backend"] },
+      { "value": "G", "text": "Augmented and Virtual Reality (AR/VR).", "tags": ["ar-vr", "c++", "visual", "performance", "creative"] }
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "What's your preferred programming language or style?",
+    "answers": [
+      { "value": "A", "text": "JavaScript/TypeScript for building interactive interfaces.", "tags": ["javascript", "frontend", "backend", "full-stack", "creative"] },
+      { "value": "B", "text": "Python for data, scripting, and AI.", "tags": ["python", "data", "ai-ml", "analytical", "versatile"] },
+      { "value": "C", "text": "C++ for high-performance and system-level programming.", "tags": ["c++", "performance", "hardware", "system-level", "graphics"] },
+      { "value": "D", "text": "Java/C# for large-scale enterprise applications.", "tags": ["backend", "stable", "structured", "enterprise", "problem-solving"] },
+      { "value": "E", "text": "I prefer not to code, but to manage and guide.", "tags": ["management", "leadership", "communication", "strategic"] }
+    ]
+  },
+  {
+    "id": "q6",
+    "text": "How do you feel about public speaking or writing?",
+    "answers": [
+      { "value": "A", "text": "I love it! I enjoy explaining complex topics to others.", "tags": ["communication", "writing", "collaborative", "leadership", "developer-advocate"] },
+      { "value": "B", "text": "I'm comfortable with it, especially for technical audiences.", "tags": ["communication", "technical-acumen", "solutions-architect", "management"] },
+      { "value": "C", "text": "I prefer to let my code speak for itself.", "tags": ["backend", "analytical", "problem-solving", "structured"] },
+      { "value": "D", "text": "I enjoy writing documentation and guides.", "tags": ["writing", "communication", "structured", "technical-writer", "empathy"] }
+    ]
+  },
+  {
+    "id": "q7",
+    "text": "What's more important in a final product?",
+    "answers": [
+      { "value": "A", "text": "A flawless, secure, and highly reliable system.", "tags": ["reliability", "security", "meticulous", "backend", "devops"] },
+      { "value": "B", "text": "A beautiful, intuitive, and delightful user experience.", "tags": ["user-centric", "creative", "frontend", "ui", "empathy"] },
+      { "value": "C", "text": "A system that is incredibly fast and efficient.", "tags": ["performance", "c++", "backend", "optimization", "system-level"] },
+      { "value": "D", "text": "A product that perfectly meets the business goals.", "tags": ["strategic", "management", "technical-pm", "leadership"] }
+    ]
+  },
+  {
+    "id": "q8",
+    "text": "You discover a major bug in production. What's your first instinct?",
+    "answers": [
+      { "value": "A", "text": "Figure out how to fix it immediately.", "tags": ["problem-solving", "backend", "meticulous", "reliability"] },
+      { "value": "B", "text": "Investigate how this could have been prevented.", "tags": ["security", "investigative", "devops", "system-design"] },
+      { "value": "C", "text": "Communicate clearly with all stakeholders about the impact.", "tags": ["communication", "management", "leadership", "strategic"] },
+      { "value": "D", "text": "Write a detailed test case to ensure it never happens again.", "tags": ["qa-engineer", "meticulous", "structured", "reliability"] }
+    ]
+  },
+  {
+    "id": "q9",
+    "text": "Which of these sounds like the most fun side project?",
+    "answers": [
+      { "value": "A", "text": "Building a smart home device with a Raspberry Pi.", "tags": ["iot", "hardware", "embedded", "python", "c++"] },
+      { "value": "B", "text": "Creating a blog to teach a complex topic.", "tags": ["writing", "communication", "developer-advocate", "technical-writer"] },
+      { "value": "C", "text": "Contributing to a major open-source project like Kubernetes.", "tags": ["devops", "platform-engineer", "collaborative", "backend"] },
+      { "value": "D", "text": "Developing a simple 2D game from scratch.", "tags": ["game-developer", "c++", "creative", "problem-solving", "visual"] },
+      { "value": "E", "text": "Analyzing public datasets to find interesting trends.", "tags": ["data-analyst", "data", "statistics", "python", "investigative"] }
+    ]
+  },
+  {
+    "id": "q10",
+    "text": "How do you approach learning a new technology?",
+    "answers": [
+      { "value": "A", "text": "I dive right in and start building something with it.", "tags": ["versatile", "problem-solving", "hands-on", "fast-paced"] },
+      { "value": "B", "text": "I read the official documentation from start to finish.", "tags": ["structured", "meticulous", "research", "analytical"] },
+      { "value": "C", "text": "I find a good online course or tutorial to follow.", "tags": ["structured", "self-motivated", "analytical"] },
+      { "value": "D", "text": "I look for research papers and academic articles on it.", "tags": ["research", "theoretical", "mathematics", "ai-ml"] }
+    ]
+  },
+  {
+    "id": "q11",
+    "text": "What is your primary career motivator?",
+    "answers": [
+      { "value": "A", "text": "High earning potential and financial stability.", "tags": ["stable", "strategic", "management"] },
+      { "value": "B", "text": "Making a positive social or ethical impact.", "tags": ["empathy", "user-centric", "ai-ethicist", "communication"] },
+      { "value": "C", "text": "Constantly learning and working on cutting-edge tech.", "tags": ["innovative", "research", "ai-ml", "quantum"] },
+      { "value": "D", "text": "Achieving a healthy work-life balance.", "tags": ["work-life-balance", "remote", "flexible", "stable"] },
+      { "value": "E", "text": "Leading a team and mentoring others.", "tags": ["leadership", "management", "empathy", "communication"] }
+    ]
+  },
+  {
+    "id": "q12",
+    "text": "You are given a vague, high-level requirement. What do you do?",
+    "answers": [
+      { "value": "A", "text": "Break it down into smaller, concrete technical tasks.", "tags": ["system-design", "backend", "structured", "problem-solving"] },
+      { "value": "B", "text": "Ask a lot of questions to understand the user's true needs.", "tags": ["user-centric", "empathy", "ux-research", "communication"] },
+      { "value": "C", "text": "Start designing a high-level system architecture.", "tags": ["solutions-architect", "cloud-architect", "strategic", "system-design"] },
+      { "value": "D", "text": "Prototype a few different solutions quickly.", "tags": ["creative", "frontend", "full-stack", "fast-paced"] }
+    ]
+  },
+  {
+    "id": "q13",
+    "text": "Which of these tasks sounds the least appealing?",
+    "answers": [
+      { "value": "A", "text": "Debugging a complex memory leak in C++ code.", "tags": ["c++", "backend", "problem-solving", "meticulous"] },
+      { "value": "B", "text": "Manually testing a web form for 2 hours.", "tags": ["qa-engineer", "meticulous", "structured", "user-centric"] },
+      { "value": "C", "text": "Writing a 20-page project proposal.", "tags": ["management", "technical-pm", "writing", "strategic"] },
+      { "value": "D", "text": "Configuring firewall rules and network settings.", "tags": ["network-engineer", "security", "system-level", "backend"] }
+    ]
+  },
+  {
+    "id": "q14",
+    "text": "How important is it for you to understand the 'business' side of tech?",
+    "answers": [
+      { "value": "A", "text": "It's critical. Tech only exists to serve a business purpose.", "tags": ["technical-pm", "management", "leadership", "strategic"] },
+      { "value": "B", "text": "It's important, but my main focus is on the technology itself.", "tags": ["backend", "frontend", "system-design", "problem-solving"] },
+      { "value": "C", "text": "I prefer to focus purely on the technical challenges.", "tags": ["research", "theoretical", "c++", "hardware"] },
+      { "value": "D", "text": "I enjoy connecting technology solutions to business outcomes.", "tags": ["solutions-architect", "data-analyst", "communication", "strategic"] }
+    ]
+  },
+  {
+    "id": "q15",
+    "text": "What kind of data are you most interested in?",
+    "answers": [
+      { "value": "A", "text": "User behavior and clickstream data.", "tags": ["data-analyst", "frontend", "user-centric", "statistics"] },
+      { "value": "B", "text": "Financial transactions and market data.", "tags": ["blockchain", "data-engineer", "databases", "security"] },
+      { "value": "C", "text": "Images, video, and audio.", "tags": ["ai-ml", "data", "python", "ar-vr", "graphics"] },
+      { "value": "D", "text": "System logs and performance metrics.", "tags": ["devops", "sre", "data-engineer", "reliability", "backend"] },
+      { "value": "E", "text": "Text and natural language.", "tags": ["nlp", "data", "python", "ai-ml", "research"] }
+    ]
+  },
+  {
+    "id": "q16",
+    "text": "Which role best describes your ideal position on a team?",
+    "answers": [
+      { "value": "A", "text": "The visionary who sets the technical direction.", "tags": ["cto", "cloud-architect", "leadership", "strategic"] },
+      { "value": "B", "text": "The expert who solves the hardest technical problems.", "tags": ["backend", "c++", "problem-solving", "security", "ai-ml"] },
+      { "value": "C", "text": "The mentor who helps everyone else grow.", "tags": ["engineering-manager", "leadership", "communication", "empathy"] },
+      { "value": "D", "text": "The diplomat who connects the tech team to the business.", "tags": ["technical-pm", "developer-advocate", "communication", "empathy"] }
+    ]
+  },
+  {
+    "id": "q17",
+    "text": "How do you feel about working with physical hardware?",
+    "answers": [
+      { "value": "A", "text": "I love it! Building and tinkering with physical devices is fun.", "tags": ["hardware", "iot", "embedded", "c++", "system-level"] },
+      { "value": "B", "text": "I'm interested, but I prefer to focus on the software side.", "tags": ["iot", "backend", "python", "system-design"] },
+      { "value": "C", "text": "I prefer to work entirely in software and the cloud.", "tags": ["frontend", "backend", "cloud", "devops", "ai-ml"] },
+      { "value": "D", "text": "I'm fascinated by the physics behind how hardware works.", "tags": ["physics", "quantum", "hardware", "research", "theoretical"] }
+    ]
+  },
+  {
+    "id": "q18",
+    "text": "What does 'innovation' mean to you in tech?",
+    "answers": [
+      { "value": "A", "text": "Creating entirely new platforms like blockchain or the metaverse.", "tags": ["blockchain", "ar-vr", "innovative", "c++", "ai-ml"] },
+      { "value": "B", "text": "Finding a new algorithm that is 100x more efficient.", "tags": ["algorithms", "ai-ml", "performance", "c++", "research"] },
+      { "value": "C", "text": "Improving a process to make developers 10x more productive.", "tags": ["devops", "platform-engineer", "automation", "efficiency"] },
+      { "value": "D", "text": "Designing a product that changes how people live their lives.", "tags": ["user-centric", "creative", "frontend", "empathy", "mobile"] }
+    ]
+  },
+  {
+    "id": "q19",
+    "text": "Choose a field outside of traditional software that interests you:",
+    "answers": [
+      { "value": "A", "text": "Finance and quantitative trading.", "tags": ["blockchain", "data", "python", "analytical", "statistics"] },
+      { "value": "B", "text": "Medicine and biotechnology.", "tags": ["data", "ai-ml", "research", "user-centric"] },
+      { "value": "C", "text": "Architecture and construction.", "tags": ["bim", "structural", "visual", "specialized"] },
+      { "value": "D", "text": "Philosophy and ethics.", "tags": ["ai-ethicist", "research", "communication", "user-centric"] }
+    ]
+  },
+  {
+    "id": "q20",
+    "text": "How do you prefer to manage your tasks?",
+    "answers": [
+      { "value": "A", "text": "A well-defined list of tasks with clear priorities.", "tags": ["structured", "stable", "qa-engineer", "management"] },
+      { "value": "B", "text": "A flexible backlog where I can pick what to work on.", "tags": ["versatile", "fast-paced", "full-stack", "frontend"] },
+      { "value": "C", "text": "I prefer to define my own tasks based on high-level goals.", "tags": ["leadership", "strategic", "research", "problem-solving"] },
+      { "value": "D", "text": "I thrive when I'm putting out fires and responding to issues.", "tags": ["sre", "devops", "security", "problem-solving", "reliability"] }
+    ]
+  },
+  {
+    "id": "q21",
+    "text": "What aspect of a system's lifecycle are you most passionate about?",
+    "answers": [
+      { "value": "A", "text": "The initial design and architecture phase.", "tags": ["solutions-architect", "system-design", "cloud-architect", "strategic"] },
+      { "value": "B", "text": "The core implementation and coding phase.", "tags": ["backend", "frontend", "c++", "python", "problem-solving"] },
+      { "value": "C", "text": "The testing, deployment, and maintenance phase.", "tags": ["devops", "sre", "qa-engineer", "reliability", "automation"] },
+      { "value": "D", "text": "The decommissioning and migration to a new system.", "tags": ["management", "strategic", "system-design", "problem-solving"] }
+    ]
+  },
+  {
+    "id": "q22",
+    "text": "Finally, what do you want your legacy to be?",
+    "answers": [
+      { "value": "A", "text": "I built a system that millions of people use and love.", "tags": ["frontend", "user-centric", "creative", "leadership"] },
+      { "value": "B", "text": "I built a system that is incredibly robust and has never had a major outage.", "tags": ["sre", "devops", "backend", "reliability", "security"] },
+      { "value": "C", "text": "I mentored the next generation of great engineers.", "tags": ["engineering-manager", "leadership", "communication", "empathy"] },
+      { "value": "D", "text": "I solved a problem that people thought was impossible.", "tags": ["research", "ai-ml", "quantum", "innovative", "theoretical"] }
+    ]
+  }
+]
